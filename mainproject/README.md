@@ -1,7 +1,6 @@
 # Main Project
 
-## Make (verolog)
-- [ ] led controller
+## Make (verilog)
 - [ ] uart controller
 - [ ] ARM7 like CPU
 - [ ] MMU

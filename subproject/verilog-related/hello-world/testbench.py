@@ -2,5 +2,5 @@ import cocotb
 
 
 @cocotb.test()
-async def tb_helloworld(dut):
+async def testbench(dut):
     dut._log.info("See below message!")
